@@ -7,4 +7,4 @@ My![Visitor Count](https://profile-counter.glitch.me/yehui2001/count.svg)visitor
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
-<script src="https://gist.github.com/yehui2001/1ab42197a2b4091c1383ffdd41103aea.js"></script>
+
