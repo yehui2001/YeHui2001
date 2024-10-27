@@ -26,6 +26,3 @@ Welcome!My![Visitor Count](https://profile-counter.glitch.me/yehui2001/count.svg
 </td></tr>
 
 <tr><td>
-
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Gd8xF-K34HcpWc93QE1aYYrVeT_LoXlkgatILAo0obI"></script>
