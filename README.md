@@ -4,7 +4,7 @@
 
 Welcome! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=yehui2001&label=Profile+views&color=7c3aed&style=flat-square)
+![访客计数](https://komarev.com/ghpvc/?username=yehui2001&label=&color=7c3aed&style=flat-square) 访客
 
 
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=yehui2001)](https://github.com/stats-organization/github-stats-extended)
