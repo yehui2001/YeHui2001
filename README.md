@@ -25,6 +25,6 @@ Welcome! 👋 The ![访客计数](https://komarev.com/ghpvc/?username=yehui2001&
 ### 🐍 贡献图
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yehui2001/YeHui2001/output/github-snake-dark.svg" />
-  <img alt="GitHub 贡献图贪吃蛇" src="https://raw.githubusercontent.com/yehui2001/YeHui2001/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yehui2001/YeHui2001/refs/heads/output/github-snake-dark.svg" />
+  <img alt="GitHub 贡献图贪吃蛇" src="https://raw.githubusercontent.com/yehui2001/YeHui2001/refs/heads/output/github-snake.svg" />
 </picture>
