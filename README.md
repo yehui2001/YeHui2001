@@ -1,5 +1,7 @@
 # HELLO,WORLD!
 
+![打字动画：Research | Code | Notes](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=7C3AED&vCenter=true&width=480&height=45&lines=Research+%7C+Code+%7C+Notes;Always+learning%2C+always+building)
+
 [![Github](https://img.shields.io/badge/github-yehui-white?logo=github)](https://github.com/yehui2001)
 
 Welcome! 👋 The ![访客计数](https://komarev.com/ghpvc/?username=yehui2001&label=&color=7c3aed&style=flat-square)th Visitor
