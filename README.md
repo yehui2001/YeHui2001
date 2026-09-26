@@ -2,7 +2,9 @@
 
 [![Github](https://img.shields.io/badge/github-yehui-white?logo=github)](https://github.com/yehui2001)
 
-Welcome! My ![Visitor Count](https://komarev.com/ghpvc/?username=yehui2001) visitor :)
+Welcome! 👋
+
+![Profile views](https://komarev.com/ghpvc/?username=yehui2001&label=Profile+views&color=7c3aed&style=flat-square)
 
 
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=yehui2001)](https://github.com/stats-organization/github-stats-extended)
